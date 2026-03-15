@@ -1,0 +1,84 @@
+div.header { 
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   display: table;
+   height: 6ex;
+   z-index: 1;
+}
+
+div.logo {
+   vertical-align: middle;
+   display: table-cell;
+   padding-left: 1ex;
+   width: 230px;
+}
+
+div.menu {
+   vertical-align: middle;
+   display: table-cell;
+   padding-right: 4ex;
+   text-align: right;
+}
+
+div.main {
+   position: relative;
+   margin-left: 180px;
+   margin-right: 180px;
+   margin-top: 12ex;
+   z-index: 0;
+}
+
+td.imgtd {
+   vertical-align: top;
+   padding-right: 1em;
+   width: 80px;
+   height: 80px;
+}
+
+.tbl td {
+   padding-bottom: 2ex;
+}
+
+td > h3 {
+   padding-top: 0px;
+   padding-bottom: 1ex;
+   margin: 0px;
+}
+
+.menu > a {
+   padding: 1ex;
+}
+
+.side > img {
+   width: 100px;
+}
+
+.logo > img {
+    width: 80%;
+}
+
+#left {
+   position: fixed;
+   top: 50%;
+   left: 0;
+   margin-left: 40px;
+   z-index: 0;
+   transform: translate(0, -50%);
+}
+
+#right {
+   position: fixed;
+   top: 50%;
+   right: 0;
+   margin-right: 40px;
+   z-index: 0;
+   transform: translate(0, -50%);
+}
+
+.links {
+   padding-top: 2px;
+   padding-bottom: 1em;
+}
+

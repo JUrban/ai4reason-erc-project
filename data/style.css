@@ -1,0 +1,92 @@
+html, body {
+   font-family:  "Helvetica", "Palatino", "DejaVu Sans", "Bitstream Vera Sans", "Helvetica", "Arial", sans-serif;
+   color: black;
+   color: #222D33;
+   //background-color: #28aadc;
+   background-color: #C1D4F5;
+   background-color: #639AD3;
+   background-color: #D4EFFA;
+   background-color: #ABE4FF;
+   background-color: #C7EDE8;
+   background-color: white;
+   background-color: #FCFBE3;
+}
+
+body {
+   counter-reset: item;
+}
+
+/*
+li {
+  display: block;
+}
+
+li:before {
+  display: list-item;
+  content: counter(item) ". ";
+  counter-increment: item;
+}
+*/
+
+
+   
+.menu { 
+	font-family:  "Impact", "Palatino", "DejaVu Sans", "Bitstream Vera Sans", "Helvetica", "Arial", sans-serif;
+}
+
+td > h3 {
+	font-family: Georgia, serif;
+}
+
+div.header { 
+   //background-color: #639AD3;
+   //background-color: #00648c;
+   //background-color: #DCE7D6;
+   background-color: #04394E;
+   background-color: #073137;
+   background-color: #222D33;
+}
+
+.menu > a:hover {
+   color: #FBB829;
+   color: white;
+}
+
+a:link {
+    color: green;
+   color: #FCFBE3;
+   color: #ADD8C7;
+   color: #222D33;
+    color: darkred;
+}
+
+a:visited {
+   color: #1693A5;
+}
+
+.menu > a {
+   color: skyblue;
+   color: #00ffff;
+   color: #1ab3c9;
+   color: #ADD8C7;
+   text-decoration: none;
+   font-size: 140%;
+}
+
+a.this {
+   color: #FBB829;
+   color: white;
+}
+
+.author {
+   font-style: italic;
+}
+
+.title {
+   font-weight: bold;
+}
+
+.links {
+   font-size: 70%;
+}
+

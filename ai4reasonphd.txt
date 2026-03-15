@@ -1,0 +1,95 @@
+PhD positions on the AI4REASON project in Prague
+================================================
+
+Czech Technical University in Prague, 
+Czech Institute of Informatics, Robotics and Cybernetics
+Contact: Josef.Urban@gmail.com
+
+Starting Salary: EUR 1,200 gross/month for 1,0 fte
+
+Job description
+===============
+
+You will be working on the ERC project AI4REASON
+(http://ai4reason.org).  The project's goal is to develop new
+combinations of AI, Machine Learning and Theorem Proving methods that
+learn reasoning guidance from large proof corpora and use such
+guidance to steer the automated reasoning processes at various levels
+of granularity.  Our motivation is to (i) facilitate automated
+computer encoding, understanding and large-scale verification of
+mathematics, science, software and hardware designs, and to (ii)
+research AI methods that combine learning and reasoning over large
+repositories of complex mathematical knowledge, getting closer to
+human-level scientific thinking.
+
+
+Topics of interest include: 
+- machine learning procedures over large proof libraries
+- methods that propose useful intermediate lemmas for long proofs
+- methods that efficiently apply learned knowledge in proof search
+- feedback loops between learning and automated reasoning
+- statistical and deductive methods for automated formalization of
+  informal mathematics
+- learning from aligned informal, semiformal and formal corpora
+
+The work will include close collaboration with several international
+partners: University of Innsbruck, Google Research, University of
+Miami, Radboud University Nijmegen and others.
+
+Requirements
+============
+
+You should meet the following requirements:
+
+- A master's degree (or equivalent) in Computer Science, Mathematics
+  or a related field, with a strong interest in Machine Learning, AI
+  and/or Automated Reasoning;
+- Commitment and a cooperative attitude;
+- Proficiency in written and spoken English.
+
+You will enroll in the PhD program in Artificial Intelligence at CTU
+with an individual study plan.
+
+
+Research Environment
+====================
+
+The research will take place at the recently established Czech
+Institute of Informatics, Robotics, and Cybernetics (CIIRC) of the
+Czech Technical University (CTU) in Prague, which is with over 1700
+members of academic staff one of the largest research institutions in
+the Czech Republic. CIIRC has been founded by CTU in July 2013 as a
+research and teaching institute and a center of excellence in the
+Czech Republic. 
+
+CIIRC is the home of the Prague Automated Reasoning Group
+(http://arg.ciirc.cvut.cz/) - an international research group working
+on various aspects of Automated Reasoning, AI and Machine Learning,
+Formalization of Mathematics, and related fields. The group has a
+large and active network of collaborations around the world. The
+AI4REASON project led by Josef Urban is funded by the European
+Research Council (ERC) which targets highest-quality
+investigator-driven frontier research in Europe
+(https://erc.europa.eu/about-erc/mission).
+
+Prague is the capital of the Czech Republic, considered one the most
+beautiful cities in the world and attracting millions of tourists
+every year. It has the highest Quality of Living Worldwide ranking
+among the eastern European cities and over 160,000 foreign residents.
+It boasts a rich history and culture, long tradition of university
+education and scientific research, and a dynamic economy.  The cost of
+living in Prague is about one half of the living costs in Amsterdam,
+Paris or Munich.
+
+
+Application
+===========
+
+Inquiries and applications should be sent via email to
+Josef.Urban@gmail.com with "AI4REASON PhD" in the subject. When
+sending an application please include your CV together with a brief
+description of your research accomplishments and interests, including
+the names of two references.
+
+Deadlines: March 1, 2017, or until the positions are filled. Earlier applications 
+are welcome and and early start date is an advantage.
